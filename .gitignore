@@ -1,32 +1,32 @@
-# Prerequisites
+# Предварительные условия
 *.d
 
-# Compiled Object files
-*.slo
+# Скомпилированные объектные файлы
+*.замедление
 *.lo
 *.o
-*.obj
+*.возражение
 
-# Precompiled Headers
+# Предварительно Скомпилированные заголовки
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
+# Скомпилированные динамические библиотеки
+*.итак
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
+# Файлы модулей Fortran
+*.мод
 *.smod
 
-# Compiled Static libraries
-*.lai
+# Скомпилированные статические библиотеки
+*.лай
 *.la
 *.a
 *.lib
 
-# Executables
+# Исполняемые файлы
 *.exe
-*.out
-*.app
+*.выход
+*.приложение
